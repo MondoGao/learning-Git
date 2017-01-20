@@ -1,47 +1,28 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
-# Folder config file
-Desktop.ini
+# User-specific stuff:
+.idea
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+## File-based project format:
+*.iws
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+## Plugin-specific files:
 
-# Windows shortcuts
-*.lnk
+# IntelliJ
+/out/
 
-# =========================
-# Operating System Files
-# =========================
+# mpeltonen/sbt-idea plugin
+.idea_modules/
 
-# OSX
-# =========================
+# JIRA plugin
+atlassian-ide-plugin.xml
 
-.DS_Store
-.AppleDouble
-.LSOverride
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
 
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
